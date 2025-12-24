@@ -1,0 +1,15 @@
+{
+  "originHash" : "9f7e624d0d164d1b536f153f5a588147b85a1a89ee27ec786f7c4562f0057f8a",
+  "pins" : [
+    {
+      "identity" : "privacyscreencapture",
+      "kind" : "remoteSourceControl",
+      "location" : "https://github.com/sathya-Baman/PrivacyScreenCapture.git",
+      "state" : {
+        "revision" : "b61da08a4dc96a6cf4b486c0f480e6e5acdf73d9",
+        "version" : "1.0.4"
+      }
+    }
+  ],
+  "version" : 3
+}
