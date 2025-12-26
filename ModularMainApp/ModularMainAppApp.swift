@@ -8,7 +8,9 @@
 import SwiftUI
 import UIKit
 import PrivacyScreenCapture
+import UImodule
 
+//import UserInterfaceModule
 //@main
 //struct ModularMainAppApp: App {
 //    init() {
@@ -60,20 +62,8 @@ final class AppDelegate: NSObject, UIApplicationDelegate {
         _ application: UIApplication,
         didFinishLaunchingWithOptions launchOptions: [UIApplication.LaunchOptionsKey: Any]? = nil
     ) -> Bool {
-
-//        NotificationCenter.default.addObserver(
-//            self,
-//            selector: #selector(userDidTakeScreenshot),
-//            name: UIApplication.userDidTakeScreenshotNotification,
-//            object: nil
-//        )
-
+        PrivacyScreenManager.shared.enableFeature()
         return true
     }
-
-//    @objc private func userDidTakeScreenshot() {
-//        print("📸 Screenshot taken!")
-//        // Trigger PrivacyScreenCapture module here
-//    }
     
 }

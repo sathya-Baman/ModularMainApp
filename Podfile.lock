@@ -1,0 +1,22 @@
+PODS:
+  - UImodule (0.1.0)
+
+DEPENDENCIES:
+  - UImodule (from `https://github.com/sathya-Baman/UImodule.git`, tag `v1.0.3`)
+
+EXTERNAL SOURCES:
+  UImodule:
+    :git: https://github.com/sathya-Baman/UImodule.git
+    :tag: v1.0.3
+
+CHECKOUT OPTIONS:
+  UImodule:
+    :git: https://github.com/sathya-Baman/UImodule.git
+    :tag: v1.0.3
+
+SPEC CHECKSUMS:
+  UImodule: 55d4ce8d9e7db90ea88e020454269211367be040
+
+PODFILE CHECKSUM: eefe3bb5fbec67b847e009b6118438d9726d8d0d
+
+COCOAPODS: 1.16.2
