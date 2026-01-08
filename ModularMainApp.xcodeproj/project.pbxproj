@@ -243,7 +243,7 @@
 			mainGroup = E1AE815B2EF9161000962D61;
 			minimizedProjectReferenceProxies = 1;
 			packageReferences = (
-				E12797672EFE4CA000409694 /* XCLocalSwiftPackageReference "../SwiftPackages/PrivacyScreenCapture" */,
+				E190C57A2F0F729700EA61AB /* XCLocalSwiftPackageReference "../SwiftPackages/PrivacyScreenCapture" */,
 			);
 			preferredProjectObjectVersion = 77;
 			productRefGroup = E1AE81652EF9161000962D61 /* Products */;
@@ -749,7 +749,7 @@
 /* End XCConfigurationList section */
 
 /* Begin XCLocalSwiftPackageReference section */
-		E12797672EFE4CA000409694 /* XCLocalSwiftPackageReference "../SwiftPackages/PrivacyScreenCapture" */ = {
+		E190C57A2F0F729700EA61AB /* XCLocalSwiftPackageReference "../SwiftPackages/PrivacyScreenCapture" */ = {
 			isa = XCLocalSwiftPackageReference;
 			relativePath = ../SwiftPackages/PrivacyScreenCapture;
 		};

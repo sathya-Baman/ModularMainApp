@@ -17,7 +17,8 @@ struct ContentView: View {
                 .imageScale(.large)
                 .foregroundStyle(.tint)
 
-            Text("Hello, world!")
+            Text("Welcome to the Main App. \n This app has 2 modules integrated:\n 1. Screenshot Detection Module\n 2. Privacy Screen Module")
+                .padding()
            
         }
         .padding()
